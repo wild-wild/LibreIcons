@@ -13,5 +13,5 @@
 }
 
 .icon-home {
-  background-image: url(var(--cdn-icons-url) "check-success.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/wild-wild/LibreIcons/icons/check-success.svg");
 }
