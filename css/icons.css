@@ -1,6 +1,6 @@
 /* URL base del CDN (ajusta con tu usuario y repo) */
 :root {
-  --cdn-icons-url: "https://cdn.jsdelivr.net/gh/wild-wild/LibreIcons/icons/";
+  --cdn-icons-url: "https://cdn.jsdelivr.net/gh/wild-wild@main/LibreIcons/icons/";
 }
 
 .icons {
