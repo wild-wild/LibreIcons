@@ -1,17 +1,12 @@
-/* URL base del CDN (ajusta con tu usuario y repo) */
-:root {
-  --cdn-icons-url: "https://cdn.jsdelivr.net/gh/wild-wild@main/LibreIcons/icons/";
-}
-
 .icons {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 32px;   /* usa un tamaño visible */
+  height: 32px;
   background-size: contain;
   background-repeat: no-repeat;
   vertical-align: middle;
 }
 
-.icon-home {
+.icon-check-success {
   background-image: url("https://cdn.jsdelivr.net/gh/wild-wild/LibreIcons/icons/check-success.svg");
 }
