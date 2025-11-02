@@ -1,0 +1,19 @@
+/* URL base del CDN (ajusta con tu usuario y repo) */
+:root {
+  --cdn-icons-url: "https://cdn.jsdelivr.net/gh/TU-USUARIO/mi-cdn/icons/";
+}
+
+/* Clase base */
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+}
+
+/* Iconos */
+.icon-home {
+  background-image: url(var(--cdn-icons-url) "check-success.svg");
+}
